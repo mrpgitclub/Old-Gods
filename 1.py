@@ -14,8 +14,6 @@ class playerCharacter:
         self.weapon = self.weapon()
         self.cyphers = self.cyphers()
 
-#sdlkfjhasdlkfjhasdfasd
-
 class type:
     def __init__(self) -> None:
         pass
