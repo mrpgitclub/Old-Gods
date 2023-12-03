@@ -13,7 +13,9 @@ class playerCharacter:
         self.armor = self.armor()
         self.weapon = self.weapon()
         self.cyphers = self.cyphers()
-
+        self.skills = self.skills()
+        self.artifacts = self.artifacts()
+        
 class type:
     def __init__(self) -> None:
         pass
